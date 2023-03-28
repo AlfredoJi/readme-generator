@@ -12,6 +12,7 @@ Requires Inquirer verison 8.0 but no other installation required.
 ## Usage
 
 Type "node index" into the command-line to start the application. The application will ask you a total of nine questions. It will ask for your github username, email, the title of the README, description information, installation information, usage information, and what type of license. After inputting all that information the application will generate you the README markdown.
+URL: https://drive.google.com/file/d/15cmcScl7ot3PwURjcmNW53wtvfI2UQ7q/view
 
 ## Questions
 Send questions to https://github.com/alfredoji
